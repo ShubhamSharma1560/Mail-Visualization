@@ -192,7 +192,7 @@ This produces the file gword.js which you can visualize using the file
 gword.htm.
 
 A second visualization is in gline.py.  It visualizes email participation by 
-organizations over time.
+organizations over the time.
 
 Mac: python3 gline.py 
 Win: gline.py 
